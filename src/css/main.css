@@ -1,0 +1,33 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background: gold;
+}
+
+nav {
+    background: #e65100;
+    width: 100%;
+}
+
+.container {
+    font-family: fantasy;
+    width: 1000px;
+    background: #263238;
+    margin: auto;
+}
+
+div blockquote .background {
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.container-table h1 {
+    font-size: 3rem !important;
+    font-family: monospace !important;
+    text-align: left !important;
+}
+
+.page-footer {
+    background: #e65100;
+}
